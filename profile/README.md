@@ -1,21 +1,16 @@
 # AlaskaLabs
 
-AlaskaLabs is a `cc0` organization that aims to be as "decentralized" as possible, producing tools, and informational guides for everyone.
+AlaskaLabs is a `cc0` community that aims to be as "decentralized" as possible, producing tools, and informational guides for everyone.
 
 **Anyone can participate. 🎉**
 
-## How to join?
+- This is not a company or a business. It is not registered, nor is it looking to be.
+- It is not a profitable business, although it can launch projects that might become profitable. 
+- It is not a non-profit organization, although it aims to distribute information, products, and tools.
+
+## How to join and contribute
 
 1. Open an issue in the [Join](https://github.com/AlaskaLabs/join) repository asking to join.
 2. Someone will let you in.
+3. [Contribute by following the steps here](https://github.com/AlaskaLabs/join#how-to-contribute)
 
-## How to contribute?
-
-1. You can fork any repository and open a PR.
-2. You can open issues on any repository to flag, or propose something, or even create a discussion.
-3. You can improve documentations.
-4. You can join the organization and:
-   1. Add a repository of yours
-   2. Fork a repository of yours into AlaskaLabs — granted you're not using it for marketing.
-   3. Create new repositories from AlaskaLabs
-   4. Build/improve a repository that already exists.
